@@ -22,7 +22,7 @@ export default function blogPostWithImage({
     <Center py={6}>
       <Stack
         w="300px"
-        h="650px"
+        h="670px"
         m="10px"
         bg={useColorModeValue('white', 'gray.900')}
         boxShadow={'2xl'}
