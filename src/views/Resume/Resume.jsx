@@ -62,7 +62,7 @@ export default function ProductSimple() {
               {' '}
               <a
                 target="_blank"
-                href="https://www.canva.com/design/DAE94MyL1X0/XL9ZSP-dZ0-3vqcGGjEWng/view?utm_content=DAE94MyL1X0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+                href="https://www.canva.com/design/DAFKQpwFs7k/0w5aITW09B1m8FmhERn-sQ/view?utm_content=DAFKQpwFs7k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
               >
                 View My Resume
               </a>
